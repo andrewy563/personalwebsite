@@ -5,3 +5,15 @@ body {
 div.name {
   text-align: center;
 }
+
+div.links {
+  text-align: center;
+}
+
+p.about {
+  text-align: right;
+}
+
+div.infolinks {
+  text-align: center;
+}
